@@ -1,6 +1,11 @@
 # Assets
+# Industrial_Harbour
+Content/Industrial_Harbour/
 # Twinmotion Boats Pack 1
 Content/Boats/
+# Megascans
+Content/Megascans/
+Content/MSPresets/
 
 # Visual Studio 2015 user specific files
 .vs/
